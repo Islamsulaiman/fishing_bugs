@@ -1,7 +1,4 @@
-class PostController < ApplicationController::Base
-
+class PostController < ApplicationController
   def index
   end
-
-
 end
