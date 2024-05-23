@@ -1,4 +1,4 @@
-class PostController < ActionController::Base
+class PostsController < ActionController::Base
 
   def index
   end
